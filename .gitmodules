@@ -7,3 +7,8 @@
 	path = ApoyoSolutions/empresa
 	url = git@github.com:ApoyoSolutions/empresa.git
 	branch = master
+
+[submodule "ApoyoSolutions/db_ecuador"]
+	path = ApoyoSolutions/db_ecuador
+	url = git@github.com:ApoyoSolutions/db_ecuador.git
+	branch = main
