@@ -2,3 +2,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "ApoyoSolutions/empresa"]
+	path = ApoyoSolutions/empresa
+	url = git@github.com:ApoyoSolutions/empresa.git
+	branch = master
